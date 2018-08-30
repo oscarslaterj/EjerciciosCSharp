@@ -52,6 +52,12 @@
     <Compile Include="Capitulo 2\Cap2_Ejercicio4.cs" />
     <Compile Include="Capitulo 2\Cap2_Ejercicio5.cs" />
     <Compile Include="Capitulo 2\Cap2_Ejericio3.cs" />
+    <Compile Include="Capitulo 3\Cap3_Ejercicio1.cs" />
+    <Compile Include="Capitulo 3\Cap3_Ejercicio4.cs" />
+    <Compile Include="Capitulo 3\Cap3_Ejercicio5.cs" />
+    <Compile Include="Capitulo 4\Cap4_Ejercicio1.cs" />
+    <Compile Include="Capitulo 4\Cap4_Ejercicio2.cs" />
+    <Compile Include="Capitulo 4\Cap5_Ejercicio5.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,9 +88,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Capitulo 3\" />
-    <Folder Include="Capitulo 4\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
